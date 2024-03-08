@@ -17,6 +17,10 @@
 
 高
 
+## 赛题分类
+未归类操作系统内核
+
+
 ## 参考文档
 
 - https://man7.org/linux/man-pages/man2/seccomp.2.html
